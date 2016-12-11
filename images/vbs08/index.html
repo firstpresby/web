@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<meta name="description" content="Another photo album built using Flash Album Exporter.">
+<meta name="keywords" content="Flash, Photo, Flash Album Exporter, FlashAlbumExporter, SimpleViewer">
+<title>VBS08</title>
+<!-- Download AutoViewer at http://www.airtightinteractive.com/projects/simpleviewer -->
+<!-- Download Flash Album Exporter at http://apertureplugin.home.comcast.net -->
+<script type="text/javascript" src="swfobject.js"></script>
+<style type="text/css">	
+	/* hide from ie on mac \*/
+	html {
+		height: 100%;
+		overflow: hidden;
+	}
+	
+	#flashcontent {
+		height: 100%;
+	}
+	/* end hide */
+
+	body {
+		height: 100%;
+		margin: 0;
+		padding: 0;
+		background-color: #cad9ea;
+		color:#ffffff;
+	}
+#text {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #433221;
+	font-size: 0.8em;
+	width: 100%;
+	height: 40px;
+	padding-left: 20px;
+	padding-bottom: 9px;
+	background-color: #FFFFFF;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: b9a894;
+	margin-top: 0px;
+	padding-top: 9px;
+}
+a:link {
+	color: 433221;
+}
+a:visited {
+	color: 433221;
+}
+a:active {
+	color: 433221;
+}
+a:hover {
+	color: 539dbc;
+}
+</style>
+</head>
+<body>
+	<div id="flashcontent">SimpleViewer requires Macromedia Flash. <a href="http://www.macromedia.com/go/getflashplayer/">Get Macromedia Flash.</a> If you have Flash installed, <a href="index.html?detectflash=false">click to view gallery</a>.</div>	
+	<script type="text/javascript">
+		var fo = new SWFObject("viewer.swf", "viewer", "100%", "100%", "7", "#cad9ea");	
+		fo.addVariable("preloaderColor", "0xffffff");
+		fo.addVariable("xmlDataPath", "gallery.xml");	
+		fo.write("flashcontent");	
+	</script>	
+</body>
+</html>

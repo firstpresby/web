@@ -1,0 +1,17 @@
+<?php set_include_path($_SERVER['DOCUMENT_ROOT']); ?>
+<?php include('header_test.php'); ?>
+<div id="content">
+<h2>First Presbyterian Church of Fairfield</h2>
+<h1>Maternity Ward Project in Ghana</h1>
+<p><br /><a class="button" href="https://www.chi-cash-advance.com/sforms/appeal1524/Contribute.aspx" target="_blank">Donate</a><br /><br /></p>
+<p>First Presbyterian Church of Fairfield is spearheading a fundraising effort to build a maternity ward in rural Ghana, West Africa. Here is the back story:</p>
+<p>For the past several years, First Presbyterian Church of Fairfield (FPC) has been supporting ministries in Ghana. We began by sending financial support to the <a href="https://www.facebook.com/Hearts-of-the-Father-Outreach-Homes-of-Refuge-for-Children-112142642162917/" target="_blank">Hearts of the Father</a> children’s home and <a href="http://www.wahealthfoundation.org/" target="_blank">West African Health Foundation's</a> medical clinic. Since 2014, we also have sent members annually to build relationships with these outreaches, in addition to supporting <a href="http://whwghana.org/" target="_blank">Women’s Health to Wealth</a> and PCUSA missionary to West Africa, <a href="http://www.presbyterianmission.org/ministries/missionconnections/the-rev-joshua-heikkila/" target="_blank">Rev. Josh Heikkila</a>. Last year FPC formalized a partnership with the <a href="http://www.presbyterianmission.org/ministries/global/ghana/" target="_blank">Evangelical Presbyterian Church of Ghana</a> (EPC), sensing God’s call to come alongside them to address unmet needs in the Volta Region. The EPC has outreaches to address homeless children, farmers and fisherman, and patients in need of healthcare, but the needs are greater than their resources.</p>
+<p>EPC pastors believe that a maternity ward at their Dzemeni medical clinic is a top priority. Dzemeni is a rural fishing town on the banks of Lake Volta. People travel great distances to go to its market and, while there, take advantage of the church’s medical clinic. The clinic provides basic screening and medical care for all in need. Currently, at least three births occur there every day, and mothers and babies share one very small recovery room. However, it is believed the number of births would double if the community trusted there was a larger, better-equipped birthing facility onsite.</p>
+<p>The EPC has shovel-ready architectural plans for this maternity ward, and has asked FPC to help raise funds to cover the cost of the building and equipment (staff salaries are shared by the government and church). We have spent more than a year working out the details of such an effort with our PCUSA missionary and headquarters, so FPC’s Mission Committee and Session now have a clear vision for how to spearhead this plan. Our denomination will help us by setting up an account to receive donations, disburse funds, and create necessary reporting mechanisms to ensure proper use of funds.</p>
+<p>This maternity ward is an opportunity for us in America to help our family members in Ghana meet the needs of their community. We are looking for other Presbyterian churches who would like to share in this project to contact Meredith or John, the chair and vice chair of our Mission Committee and learn how to be involved.  Thank you!</p>
+<p>Meredith Vanden Handel, meredithvandenhandel@gmail.com, 917.952.1129</p>
+<p>John Winstead, john.winstead@us.ibm.com, 203.581.0802</p>
+    </div>
+</div>
+
+<?php include('footer.php'); ?>
